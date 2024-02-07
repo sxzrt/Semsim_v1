@@ -1,6 +1,6 @@
 # Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?
 
-This repository serves as a demonstration of the techniques outlined in the paper [Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?](https://arxiv.org/pdf/2309.13038.pdf). The full codebase will be made available by SonyAI, pending approval from their legal department.
+This repository serves as a demonstration of the techniques outlined in the paper [Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?](https://arxiv.org/pdf/2309.13038.pdf). The full codebase will be made available by SonyAI, pending approval from the legal department.
 
 [**Project Page**](https://sites.google.com/view/semsim)
 
